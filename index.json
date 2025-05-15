@@ -3,70 +3,100 @@
         "eventId": "event-test-1",
         "title": "Welcome To Our Sample Event",
         "description": "You'll be able to do lots of fun things.",
-        "startDate": "February 29 2028 12:00:00",
+        "startDate": "2025-05-21T12:00:00.000Z",
+        "endDate": "2025-05-21T13:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-2",
         "title": "Team Building Workshop",
         "description": "Learn how to collaborate better with your team.",
-        "startDate": "March 01 2028 09:00:00",
+        "startDate": "2025-05-21T09:00:00.000Z",
+        "endDate": "2025-05-21T10:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "10:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-3",
         "title": "Product Launch Meeting",
         "description": "Preview the new product roadmap.",
-        "startDate": "March 02 2028 14:30:00",
+        "startDate": "2025-05-21T14:30:00.000Z",
+        "endDate": "2025-05-21T15:30:00.000Z",
+        "startTime": "14:30",
+        "endTime": "15:30",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-4",
         "title": "Customer Feedback Session",
         "description": "Share your thoughts and help us improve.",
-        "startDate": "March 03 2028 10:00:00",
+        "startDate": "2025-05-21T10:00:00.000Z",
+        "endDate": "2025-05-21T11:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "11:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-5",
         "title": "Networking Lunch",
         "description": "Meet and connect with fellow attendees.",
-        "startDate": "March 04 2028 12:00:00",
+        "startDate": "2025-05-21T12:00:00.000Z",
+        "endDate": "2025-05-21T13:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-6",
         "title": "Developer AMA",
         "description": "Ask Me Anything with the lead developers.",
-        "startDate": "March 05 2028 16:00:00",
+        "startDate": "2025-05-21T16:00:00.000Z",
+        "endDate": "2025-05-21T17:00:00.000Z",
+        "startTime": "16:00",
+        "endTime": "17:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-7",
         "title": "AI Trends 2028",
         "description": "Explore the future of artificial intelligence.",
-        "startDate": "March 06 2028 11:00:00",
+        "startDate": "2025-05-21T11:00:00.000Z",
+        "endDate": "2025-05-21T12:00:00.000Z",
+        "startTime": "11:00",
+        "endTime": "12:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-8",
         "title": "Marketing Strategy Review",
         "description": "Evaluate Q1 campaigns and performance.",
-        "startDate": "March 07 2028 13:00:00",
+        "startDate": "2025-05-21T13:00:00.000Z",
+        "endDate": "2025-05-21T14:00:00.000Z",
+        "startTime": "13:00",
+        "endTime": "14:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-9",
         "title": "Code Review Session",
         "description": "Collaborative code review and feedback.",
-        "startDate": "March 08 2028 15:00:00",
+        "startDate": "2025-05-21T15:00:00.000Z",
+        "endDate": "2025-05-21T16:00:00.000Z",
+        "startTime": "15:00",
+        "endTime": "16:00",
         "image": "https://placehold.co/600x400"
     },
     {
         "eventId": "event-test-10",
         "title": "Final Day Celebration",
         "description": "Celebrate the successful wrap-up of the event series!",
-        "startDate": "March 09 2028 17:00:00",
+        "startDate": "2025-05-21T17:00:00.000Z",
+        "endDate": "2025-05-21T18:00:00.000Z",
+        "startTime": "17:00",
+        "endTime": "18:00",
         "image": "https://placehold.co/600x400"
     }
 ]
