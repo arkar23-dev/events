@@ -1,6 +1,6 @@
 [
     {
-        "eventId": "event-test-1",
+        "eventId": "checkin-welcome-01",
         "title": "Last-Minute Reminder",
         "description": "Join now, we’re starting any second!",
         "startDate": "2025-05-15T03:30:00.000Z",
@@ -10,7 +10,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-2",
+        "eventId": "checkin-briefing-02",
         "title": "Emergency Product Briefing",
         "description": "Quick briefing starting in 3 minutes!",
         "startDate": "2025-05-15T03:30:00.000Z",
@@ -20,7 +20,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-3",
+        "eventId": "checkin-ama-03",
         "title": "Developer AMA",
         "description": "Ask our engineers anything.",
         "startDate": "2025-05-21T18:00:00.000Z",
@@ -30,7 +30,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-4",
+        "eventId": "checkin-design-04",
         "title": "Design Trends 2025",
         "description": "Explore the latest in UI/UX design.",
         "startDate": "2025-05-22T17:00:00.000Z",
@@ -40,7 +40,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-5",
+        "eventId": "checkin-sync-05",
         "title": "Weekly Team Sync",
         "description": "Let’s align on deliverables.",
         "startDate": "2025-05-21T19:00:00.000Z",
@@ -50,7 +50,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-6",
+        "eventId": "checkin-happyhour-06",
         "title": "Virtual Happy Hour",
         "description": "Relax, chat, and enjoy the end of the week.",
         "startDate": "2025-05-23T01:00:00.000Z",
@@ -60,7 +60,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-7",
+        "eventId": "checkin-bugbash-07",
         "title": "Bug Bash",
         "description": "Let's squash some bugs together.",
         "startDate": "2025-05-21T21:00:00.000Z",
@@ -70,7 +70,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-8",
+        "eventId": "checkin-roadmap-08",
         "title": "Product Planning 2025",
         "description": "Roadmap and goals session.",
         "startDate": "2025-05-22T20:00:00.000Z",
@@ -80,7 +80,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-9",
+        "eventId": "checkin-careers-09",
         "title": "Career Q&A",
         "description": "Ask leaders about tech careers.",
         "startDate": "2025-05-22T22:00:00.000Z",
@@ -90,7 +90,7 @@
         "image": "https://placehold.co/600x400"
     },
     {
-        "eventId": "event-test-10",
+        "eventId": "checkin-closing-10",
         "title": "Closing Ceremony",
         "description": "Thank you all for joining!",
         "startDate": "2025-05-23T02:00:00.000Z",
