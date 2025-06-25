@@ -1,4 +1,14 @@
 [
+     {
+        "eventId": "arkar-intro-01",
+        "title": "Arkar Session",
+        "description": "Let’s kick things off with energy and excitement!",
+        "startDate": "2025-07-01T16:00:00.000Z",
+        "endDate": "2025-07-01T17:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "image": "https://placehold.co/600x400"
+    },
     {
         "eventId": "kickoff-intro-01",
         "title": "Kickoff Session",
